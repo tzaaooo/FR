@@ -1,0 +1,2 @@
+set pcname VideoConf.
+ip 10.150.4.1 24
